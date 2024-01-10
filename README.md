@@ -5,8 +5,8 @@
 
 #To run this website on system, you have to run these commands - (first you have to clone this website)
 
-# npm i
-# nodemon app.js
+#npm i
+#nodemon app.js
 
 #login page
 
